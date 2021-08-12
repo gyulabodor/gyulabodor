@@ -1,0 +1,4 @@
+- 👋 Hi, My name is Gyula Bodor from Hungary.
+- 👀 I’m interested in software develpoment and looking for my first job and way in this profession.
+- 🌱 I’m currently learning .NET 5 with Angular and ASP.NET.
+- 📫 How to reach me: gyulabodor95@gmail.com
