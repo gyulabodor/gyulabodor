@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Gyula Bodor from Hungary.
+- 👋 Hi, My name is Gyula Bodor from Hungary, Budapest.
 - 👀 I’m interested in software develpoment and looking for my first job and way in this profession.
-- 🌱 I’m currently learning .NET 5 with Angular and ASP.NET.
-- 📫 How to reach me: gyulabodor95@gmail.com
+- 🌱 I’m currently learning Typescript, express and typeorm for backend, and React TS for frontend, I am familiar with mysql, mssql and postgre sql databases
+- 📫 How to reach me: gyulabodor95@gmail.com 
