@@ -1,4 +1,4 @@
 - 👋 Hi, My name is Gyula Bodor from Hungary, Budapest.
 - 👀 I’m interested in software develpoment and looking for my first job and way in this profession.
-- 🌱 I’m currently learning Typescript, nodeJS, express and typeorm for backend, and React TS for frontend, I am familiar with mysql and mssql databases
+- 🌱 I’m currently learning Typescript, nodeJS, apollo graphql, express, typeorm, prisma for backend, and React JS/TS for frontend, I am familiar with mysql and postgreSql databases
 - 📫 How to reach me: gyulabodor95@gmail.com 
