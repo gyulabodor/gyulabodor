@@ -1,5 +1,5 @@
-- 👋 Hi, My name is Gyula Bodor from Hungary, Budapest.
-- 👀 I’m working as a developer mainly with angular, javaEE and spring boot
+- 👋 Hi, My name is Gyula Bodor, Developer from Hungary, Budapest.
+- 👀 Stack: Angular, Enterprise Java, Spring, Spring Boot
 - 📫 How to reach me: www.linkedin.com/in/gyulabodor95
 
 
